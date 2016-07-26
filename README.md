@@ -4,4 +4,4 @@ trying create a node cli, folowing the tutorial below
 
 > https://www.youtube.com/watch?v=C9xGEJ80jjs
 
-ps: *everybody needs a *¯\_(ツ)_/¯* face.*
+ps: *everybody needs a* ¯\_(ツ)_/¯ *face.*
