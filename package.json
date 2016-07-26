@@ -1,0 +1,15 @@
+{
+  "name": "whatever-face",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "bin": {
+  	"wtface": "cli.js"
+  },
+  "preferGlobal": "true",
+  "scripts": {
+    "test": "wtface"
+  },
+  "author": "",
+  "license": "ISC"
+}
